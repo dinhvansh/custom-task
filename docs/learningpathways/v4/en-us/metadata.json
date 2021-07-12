@@ -161,7 +161,7 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Get started",
+      "Name": "ĐÀO TẠO HỘI NHẬP",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -189,7 +189,7 @@
     },
     {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
-      "Name": "Scenarios",
+      "Name": "ĐÀO TẠO CHUYÊN ĐỀ",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -235,7 +235,7 @@
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Products",
+      "Name": "ĐÀO TẠO CHUYÊN MÔN",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -398,7 +398,7 @@
     },
     {
       "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
-      "Name": "Adoption Tools",
+      "Name": "ĐÀO TẠO KỸ NĂNG MỀM",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
